@@ -14,5 +14,5 @@ This repository contains scripts used to project mineral trace element geochemic
 <img width="609" height="718" alt="V3_fish" src="https://github.com/user-attachments/assets/ad45ab15-50bf-40bb-8b49-f9c81c426f6d" />
 
 * The apatite folder contains the script and dataset used to project the apatite data of O'Sullivan et al., 2020. 
-* The zircon dataset folder contains the Carrasco-Godoy et al., 2024 dataset, the Nathwani et al., 2024 dataset, and the combined Yerington dataset of Castellanos-Melendez et al., 2024 and Carter et al., 2021.
+
 
