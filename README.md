@@ -13,6 +13,8 @@ This repository contains scripts used to project mineral trace element geochemic
 * The folder labelled V3_zircongeochemistry contains the script, data, and UMAP model used to project zircon geochemistry using P, Ce, Eu, Th, La, Pr, Y, Nd, Gd, Er, Yb, Sm, Dy, and Lu.
 <img width="609" height="718" alt="V3_fish" src="https://github.com/user-attachments/assets/ad45ab15-50bf-40bb-8b49-f9c81c426f6d" />
 
+*The folder labelled Yerington contains the scripts and data used to construct the Yerington district figures.
+
 * The apatite folder contains the script and dataset used to project the apatite data of O'Sullivan et al., 2020. 
 
 
