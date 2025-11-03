@@ -1,4 +1,4 @@
-# **UMAP-TE (extension)**
+# **Evaluation of Uniform Manifold Approximation and Projection for dimensionality reduction for large geochemical datasets relevant to magmatic ore-fertility, petrologic classification, and provenance**
 
 The Uniform Manifold Approximation and Projection - Trace elements (UMAP-TE) software is a software tool to process zircon trace element geochemistry. This repository is a functional programming extension of the main branch (version 1). It is provided as a software tool generalisable to any geochemical tabulated data of known origin (curated/annotated/filtered for outliers). The update also contains an interesting mini-pipeline to produce interactive UMAP plots:
 
