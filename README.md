@@ -3,8 +3,8 @@
 We provide the Uniform Manifold Approximation and Projection - Trace elements (UMAP-TE) software as a new tool to process zircon/apatite trace element chemistry but the approach is generalisable to any geochemical tabulated data of known origin (curated/annotated/filtered for outliers). This is an update of version 1 provided in the initial m/s submission that includes a mini-pipeline to produce interactive UMAP plots:
 
 <p float="left" align="middle">
-  <img src="https://github.com/user-attachments/assets/14d0e597-6b58-432f-935d-43e5daaaf107" width=45% height=45%>
-  <img src="https://github.com/user-attachments/assets/797d75a5-5a4c-474c-9cbb-dd8b90b3ac27" width=45% height=45%>
+  <img src="https://github.com/user-attachments/assets/14d0e597-6b58-432f-935d-43e5daaaf107" width=75% height=75%>
+  <img src="https://github.com/user-attachments/assets/797d75a5-5a4c-474c-9cbb-dd8b90b3ac27" width=75% height=75%>
 </p>
 
 This repository has the code and data tables used in the submitted m/s: "Evaluation of non-linear dimensionality reduction for large geochemical datasets relevant to magmatic ore-fertility, petrologic classification, and provenance" (Chemical Geology). 
