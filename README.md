@@ -1,4 +1,4 @@
-# **Evaluation of non-linear dimensionality reduction for large geochemical datasets relevant to magmatic ore-fertility, petrologic classification, and provenance**
+# **Evaluation of Uniform Manifold Approximation and Projection for dimensionality reduction for large geochemical datasets relevant to magmatic ore-fertility, petrologic classification, and provenance**
 
 ## Instructions
 This repository contains jupyter notebooks that can be downloaded and run on the users computer. After downloading, users will need to update the directories in the code and then follow the instructions within the notebooks. 
