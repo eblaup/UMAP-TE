@@ -6,6 +6,8 @@
 This repository contains jupyter notebooks that can be downloaded and run on the users computer. After downloading, users will need to update the directories in the code and then follow the instructions within the notebooks. 
 Users can also transform their own datasets using the Zircon Fertility UMAP script and saved UMAP model by inputting their datasets provided they are in the same format (same columns). 
 
+The user needs to install Python 3.12.4 and all the libraries listed in "package_list.txt" to reproduce the Conda environment. The same version of Python is required to read the scaler/model files (*.sav) provided.
+
 ## Contents
 This repository contains scripts used to project mineral trace element geochemical data using UMAP. Commented instructions can be found within the linked jupyter notebooks The manuscript and code uses existing literature compilations of apatite and zircon geochemistry from Carrasco-Godoy et al., 2024 (https://doi.org/10.5382/econgeo.5086) and references therein; Nathwani et al., 2024 (https://doi.org/10.1038/s41467-024-52786-5), Castellanos-Melendez et al., 2024 (https://doi.org/10.1016/j.epsl.2024.119053), O'Sullivan et al., 2020, downloaded from their PANGAEA repository (https://doi.org/10.1594/PANGAEA.906570), and a GeoROC precompiled apatite file (2024-12-01, doi:10.25625/SGFTFN).
 
