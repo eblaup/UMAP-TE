@@ -17,6 +17,6 @@ This repository contains scripts used to project mineral trace element geochemic
 
 * The folder labelled Yerington contains the scripts and data used to construct the Yerington district figures.
 
-* The apatite folder contains the script and dataset used to project the apatite data of O'Sullivan et al., 2020 along with the GeoROC apatite. 
+* The apatite folder contains the script and dataset used to project the apatite data of O'Sullivan et al., 2020 along with the GEOROC apatite. 
 
 
